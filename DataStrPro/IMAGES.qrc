@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>MainYellow.svg</file>
+        <file>backgr.PNG</file>
+    </qresource>
+</RCC>
